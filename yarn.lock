@@ -673,9 +673,10 @@
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
 
-"@grammarly/focal@^0.7.1":
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/@grammarly/focal/-/focal-0.7.1.tgz#ef88c31565b460875d2d839453258abb42dfce2f"
+"@grammarly/focal@^0.8.5":
+  version "0.8.5"
+  resolved "https://registry.yarnpkg.com/@grammarly/focal/-/focal-0.8.5.tgz#e1c1ce84b4a441c8acfe030995c78b718e825f04"
+  integrity sha512-jwUCFSkWwecvpwvWXN6SQsxzKbn4ej4NnIoRR4biNemXe0tkjPQWrp/w/iedDrkMdjHQ+9XUywsCjHOs7/ufwg==
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
